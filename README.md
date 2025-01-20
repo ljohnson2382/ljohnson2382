@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Loyd
 - 👀 I’m new to coding and exploring the possiblities in order to find my particular field of interest.
-- 🌱 I’m currently learning html, css, and SQL.
-- 💞️ I’m looking to collaborate on html and css projects in order to gain experience and "build my chops."
+- 🌱 I’m currently learning HTML, CSS, and SQL.
+- 💞️ I’m looking to collaborate on HTML and CSS projects in order to gain experience and "build my chops."
 - 📫 How to reach me by emailing loyd.johnson@yahoo.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I am a lifelong musician and former recording engineer turned IT Help Desk TEch who has only recently rediscovered a passion for technology and coding.
