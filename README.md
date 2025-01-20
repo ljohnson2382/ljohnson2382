@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Loyd Johnson
+- 👋 Hi, I’m Loyd
 - 👀 I’m new to coding and exploring the possiblities in order to find my particular field of interest.
 - 🌱 I’m currently learning html, css, and SQL.
 - 💞️ I’m looking to collaborate on html and css projects in order to gain experience and "build my chops."
