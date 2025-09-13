@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Loyd
 - 👀 I’m new to coding and exploring the possiblities in order to find my particular field of interest.
-- 🌱 I’m currently learning HTML, CSS, and SQL.
+- 🌱 I’m currently learning HTML, CSS, Java, and SQL.
 - 💞️ I’m looking to collaborate on HTML and CSS projects in order to gain experience and "build my chops."
 - 📫 How to reach me by emailing loyd.johnson@yahoo.com
 - 😄 Pronouns: He, Him
