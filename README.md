@@ -21,15 +21,13 @@
 - **Campus IT Modernization**: Led technology initiatives serving 40,000+ users
 - **Centralized Management Systems**: Designed unified dashboards for IT service coordination
 
-  ![Loyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljohnson2382&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljohnson2382&layout=compact&theme=dark&hide_border=true)
-
 ## 🎵 Background
 Former recording engineer and lifelong musician who discovered a passion for technology and system optimization. Now combining creative problem-solving with enterprise IT leadership.
 
 ## 📊 GitHub Stats
 
+![Loyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljohnson2382&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljohnson2382&layout=compact&theme=dark&hide_border=true)
 
 ## 📫 Connect With Me
 - **Portfolio**: [www.loydjohnson.com](https://www.loydjohnson.com)
